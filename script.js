@@ -3,7 +3,7 @@ $(function(){
     const strR = '?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ';
     const imgs = [
       {
-        descripcion: 'Meet Dhruv and Srija,My left and right atrium. This photo was caputured at a book fair,around 9.',
+        descripcion: 'Meet Dhruv and Srija,My left and right atrium. This photo was captured at a book fair,around 9.',
         titulo: 'Heart(s)',
         url:("images/ori1.jpg")
       },
